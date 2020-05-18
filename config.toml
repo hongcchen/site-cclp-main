@@ -1,4 +1,5 @@
 baseURL = "mycclp.github.io/site-cclp-main"
+publishDir = "docs"
 languageCode = "en-us"
 title = "文化中国"
 theme = "hugo-minimal"
