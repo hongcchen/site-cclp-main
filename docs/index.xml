@@ -6,18 +6,21 @@
     <description>Recent content on 文化中国</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ch</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mycclp.github.io/site-cclp-main/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Project 1</title>
+      <title>文化中国内部信息库</title>
       <link>https://mycclp.github.io/site-cclp-main/project/private-wiki/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://mycclp.github.io/site-cclp-main/project/private-wiki/</guid>
-      <description></description>
+      <description>浙江大学文化中国人才计划发展至今，已经有上百名教授和嘉宾、数百名在校学生及校友。为了完善计划内部的信息分享，我们利用Github的私有Wiki功能，建立了文化中国信息库。
+在现阶段，信息库主要作为内部通讯录使用。我们会定期维护各期、各同学，以及部分嘉宾的信息页面。随着信息库的逐渐完善，我们会按照城市、行业、学校等分类，对校友情况及资源进行整理。
+
+信息库仅对文化中国内部成员开放。如需使用，请注册Github账号，并联系四期学员邵鸿章。获得使用权限后，请在这里访问信息库。如果你熟悉Github及Markdown语言，你可以自行编辑感兴趣的页面。</description>
     </item>
     
     <item>

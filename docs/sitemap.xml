@@ -3,7 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mycclp.github.io/site-cclp-main/project/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mycclp.github.io/site-cclp-main/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mycclp.github.io/site-cclp-main/project/private-wiki/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -42,20 +53,11 @@
   </url>
   
   <url>
-    <loc>https://mycclp.github.io/site-cclp-main/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mycclp.github.io/site-cclp-main/about/</loc>
   </url>
   
   <url>
     <loc>https://mycclp.github.io/site-cclp-main/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/project/</loc>
   </url>
   
 </urlset>

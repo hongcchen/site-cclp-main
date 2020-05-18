@@ -1,8 +1,18 @@
 ---
-title: "Project 1"
-description: "Lorem ipsum dolor sit amet"
-repo: "#" # delete this line if you want a blog-like page
-tags: ["go", "golang", "hugo"]
-weight: 1
+title: "文化中国内部信息库"
+date: 2020-05-18
 draft: false
 ---
+
+
+
+浙江大学文化中国人才计划发展至今，已经有上百名教授和嘉宾、数百名在校学生及校友。为了完善计划内部的信息分享，我们利用Github的私有Wiki功能，建立了[文化中国信息库](https://github.com/MYCCLP/CCLP-WIKI/wiki)。
+
+在现阶段，信息库主要作为内部通讯录使用。我们会定期维护各期、各同学，以及部分嘉宾的信息页面。随着信息库的逐渐完善，我们会按照城市、行业、学校等分类，对校友情况及资源进行整理。
+
+<br>
+
+
+
+信息库仅对文化中国内部成员开放。如需使用，请[注册Github账号](https://github.com/join)，并联系四期学员邵鸿章。获得使用权限后，请在[这里](https://github.com/MYCCLP/CCLP-WIKI)访问信息库。如果你熟悉Github及Markdown语言，你可以自行编辑感兴趣的页面。
+
