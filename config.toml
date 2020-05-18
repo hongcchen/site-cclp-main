@@ -1,6 +1,6 @@
 baseURL = "https://mycclp.github.io/site-cclp-main/"
 publishDir = "docs"
-languageCode = "en-us"
+languageCode = "en-ch"
 title = "文化中国"
 theme = "minimal"
 googleAnalytics = ""
@@ -8,7 +8,7 @@ googleAnalytics = ""
 [params]
     author = "Steve Shao"
     description = "浙江大学 晨兴 文化中国 人才计划 校友会"
-    githubUsername = "#"
+    githubUsername = "MYCCLP"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
@@ -42,6 +42,6 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/MYCCLP/"
     name = "github"
     weight = 1

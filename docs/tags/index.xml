@@ -5,7 +5,7 @@
     <link>https://mycclp.github.io/site-cclp-main/tags/</link>
     <description>Recent content in Tags on 文化中国</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-ch</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mycclp.github.io/site-cclp-main/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -44,105 +44,6 @@
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>https://mycclp.github.io/site-cclp-main/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://mycclp.github.io/site-cclp-main/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mycclp.github.io/site-cclp-main/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>template</title>
-      <link>https://mycclp.github.io/site-cclp-main/tags/template/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mycclp.github.io/site-cclp-main/tags/template/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jekyll</title>
-      <link>https://mycclp.github.io/site-cclp-main/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mycclp.github.io/site-cclp-main/tags/jekyll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>static-site-generator</title>
-      <link>https://mycclp.github.io/site-cclp-main/tags/static-site-generator/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mycclp.github.io/site-cclp-main/tags/static-site-generator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bootstrap</title>
-      <link>https://mycclp.github.io/site-cclp-main/tags/bootstrap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mycclp.github.io/site-cclp-main/tags/bootstrap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>css</title>
-      <link>https://mycclp.github.io/site-cclp-main/tags/css/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mycclp.github.io/site-cclp-main/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>highlight-js</title>
-      <link>https://mycclp.github.io/site-cclp-main/tags/highlight-js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mycclp.github.io/site-cclp-main/tags/highlight-js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>https://mycclp.github.io/site-cclp-main/tags/html/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mycclp.github.io/site-cclp-main/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>js</title>
-      <link>https://mycclp.github.io/site-cclp-main/tags/js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mycclp.github.io/site-cclp-main/tags/js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>responsive</title>
-      <link>https://mycclp.github.io/site-cclp-main/tags/responsive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mycclp.github.io/site-cclp-main/tags/responsive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>syntax-highlighting</title>
-      <link>https://mycclp.github.io/site-cclp-main/tags/syntax-highlighting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mycclp.github.io/site-cclp-main/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     

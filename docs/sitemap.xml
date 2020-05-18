@@ -3,19 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mycclp.github.io/site-cclp-main/project/project1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/project/project2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/project/project3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/project/project4/</loc>
+    <loc>https://mycclp.github.io/site-cclp-main/project/private-wiki/</loc>
   </url>
   
   <url>
@@ -59,46 +47,7 @@
   </url>
   
   <url>
-    <loc>https://mycclp.github.io/site-cclp-main/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/tags/template/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/tags/static-site-generator/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mycclp.github.io/site-cclp-main/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/tags/bootstrap/</loc>
   </url>
   
   <url>
@@ -106,31 +55,7 @@
   </url>
   
   <url>
-    <loc>https://mycclp.github.io/site-cclp-main/tags/css/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/tags/highlight-js/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/tags/html/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/tags/js/</loc>
-  </url>
-  
-  <url>
     <loc>https://mycclp.github.io/site-cclp-main/project/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/tags/responsive/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/tags/syntax-highlighting/</loc>
   </url>
   
 </urlset>
