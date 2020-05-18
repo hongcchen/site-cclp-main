@@ -3,7 +3,7 @@ publishDir = "docs"
 languageCode = "en-ch"
 title = "文化中国"
 theme = "minimal"
-googleAnalytics = ""
+googleAnalytics = "UA-166989401-1"
 
 [params]
     author = "Steve Shao"
