@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on 文化中国</title>
+    <link>mycclp.github.io/site-cclp-main/project/</link>
+    <description>Recent content in Projects on 文化中国</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="mycclp.github.io/site-cclp-main/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>文化中国信息库</title>
+      <link>mycclp.github.io/site-cclp-main/project/cclp-wiki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>mycclp.github.io/site-cclp-main/project/cclp-wiki/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
