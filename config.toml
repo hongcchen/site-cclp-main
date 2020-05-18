@@ -1,7 +1,7 @@
 baseURL = "mycclp.github.io/site-cclp-main"
 languageCode = "en-us"
 title = "文化中国"
-theme = "minimal"
+theme = "hugo-minimal"
 googleAnalytics = ""
 
 [params]
