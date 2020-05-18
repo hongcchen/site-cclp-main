@@ -6,40 +6,43 @@
     <description>Recent content on 文化中国</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ch</language>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mycclp.github.io/site-cclp-main/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>文化中国内部信息库</title>
-      <link>https://mycclp.github.io/site-cclp-main/project/private-wiki/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <title>周老师与北美校友连线</title>
+      <link>https://mycclp.github.io/site-cclp-main/post/2020-05-16-%E5%91%A8%E8%80%81%E5%B8%88%E4%B8%8E%E5%8C%97%E7%BE%8E%E6%A0%A1%E5%8F%8B%E8%BF%9E%E7%BA%BF/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mycclp.github.io/site-cclp-main/project/private-wiki/</guid>
-      <description>浙江大学文化中国人才计划发展至今，已经有上百名教授和嘉宾、数百名在校学生及校友。为了完善计划内部的信息分享，我们利用Github的私有Wiki功能，建立了文化中国信息库。
-在现阶段，信息库主要作为内部通讯录使用。我们会定期维护各期、各同学，以及部分嘉宾的信息页面。随着信息库的逐渐完善，我们会按照城市、行业、学校等分类，对校友情况及资源进行整理。
-
-信息库仅对文化中国内部成员开放。如需使用，请注册Github账号，并联系四期学员邵鸿章。获得使用权限后，请在这里访问信息库。如果你熟悉Github及Markdown语言，你可以自行编辑感兴趣的页面。</description>
+      <guid>https://mycclp.github.io/site-cclp-main/post/2020-05-16-%E5%91%A8%E8%80%81%E5%B8%88%E4%B8%8E%E5%8C%97%E7%BE%8E%E6%A0%A1%E5%8F%8B%E8%BF%9E%E7%BA%BF/</guid>
+      <description>2020年5月16日星期六，美东时间晚10点，周老师与文化中国在北美的校友进行了视频连线。
+会议记录请见这里。
+会议记录保存于文化中国内部信息库中。请到这里查看信息库的使用方法。</description>
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://mycclp.github.io/site-cclp-main/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mycclp.github.io/site-cclp-main/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
+      <title>关于我们</title>
       <link>https://mycclp.github.io/site-cclp-main/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mycclp.github.io/site-cclp-main/about/</guid>
-      <description>Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again. Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.</description>
+      <description>浙江大学“晨兴文化中国人才计划” (Morningside Cultural China Scholarship Program) 是一个独具特色的教育项目，以杜维明教授、周生春教授为负责人。计划每年选拔三十名优秀在校生，在保持其各自主修专业的基础上独立成班，邀请国内外著名学者、社会各界杰出人士传道授业，担任导师。经过两年学习，完成学业。
+本站为文化中国人才计划校友会主页。</description>
+    </item>
+    
+    <item>
+      <title>资源</title>
+      <link>https://mycclp.github.io/site-cclp-main/resource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mycclp.github.io/site-cclp-main/resource/</guid>
+      <description>文化中国内部信息库 
+浙江大学文化中国人才计划发展至今，已经有上百名教授和嘉宾、数百名在校学生及校友。为了完善计划内部的信息分享，我们利用Github的私有Wiki功能，建立了文化中国信息库。
+在现阶段，信息库主要作为内部通讯录使用。我们会定期维护各期、各同学，以及部分嘉宾的信息页面。随着信息库的逐渐完善，我们会按照城市、行业、学校等分类，对校友情况及资源进行整理。
+
+信息库仅对文化中国内部成员开放。如需使用，请注册Github账号，并联系四期学员邵鸿章。获得使用权限后，请在这里访问信息库。如果你熟悉Github及Markdown语言，你可以自行编辑感兴趣的页面。</description>
     </item>
     
   </channel>

@@ -6,19 +6,20 @@
     <description>Recent content in Posts on 文化中国</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ch</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mycclp.github.io/site-cclp-main/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://mycclp.github.io/site-cclp-main/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>周老师与北美校友连线</title>
+      <link>https://mycclp.github.io/site-cclp-main/post/2020-05-16-%E5%91%A8%E8%80%81%E5%B8%88%E4%B8%8E%E5%8C%97%E7%BE%8E%E6%A0%A1%E5%8F%8B%E8%BF%9E%E7%BA%BF/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mycclp.github.io/site-cclp-main/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>https://mycclp.github.io/site-cclp-main/post/2020-05-16-%E5%91%A8%E8%80%81%E5%B8%88%E4%B8%8E%E5%8C%97%E7%BE%8E%E6%A0%A1%E5%8F%8B%E8%BF%9E%E7%BA%BF/</guid>
+      <description>2020年5月16日星期六，美东时间晚10点，周老师与文化中国在北美的校友进行了视频连线。
+会议记录请见这里。
+会议记录保存于文化中国内部信息库中。请到这里查看信息库的使用方法。</description>
     </item>
     
   </channel>

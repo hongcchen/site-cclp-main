@@ -33,7 +33,7 @@ googleAnalytics = ""
     weight = 3
 
 [[menu.main]]
-    url = "/project/"
+    url = "/resource/"
     name = "资源"
     weight = 4
 

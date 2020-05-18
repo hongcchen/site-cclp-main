@@ -3,53 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mycclp.github.io/site-cclp-main/project/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <loc>https://mycclp.github.io/site-cclp-main/post/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mycclp.github.io/site-cclp-main/post/2020-05-16-%E5%91%A8%E8%80%81%E5%B8%88%E4%B8%8E%E5%8C%97%E7%BE%8E%E6%A0%A1%E5%8F%8B%E8%BF%9E%E7%BA%BF/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mycclp.github.io/site-cclp-main/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mycclp.github.io/site-cclp-main/project/private-wiki/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/tags/go/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/tags/golang/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://mycclp.github.io/site-cclp-main/categories/</loc>
   </url>
   
   <url>
     <loc>https://mycclp.github.io/site-cclp-main/tags/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mycclp.github.io/site-cclp-main/tags/themes/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -57,7 +30,7 @@
   </url>
   
   <url>
-    <loc>https://mycclp.github.io/site-cclp-main/categories/</loc>
+    <loc>https://mycclp.github.io/site-cclp-main/resource/</loc>
   </url>
   
 </urlset>
