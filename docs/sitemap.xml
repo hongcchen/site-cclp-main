@@ -19,11 +19,6 @@
   </url>
   
   <url>
-    <loc>https://mycclp.github.io/site-cclp-main/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mycclp.github.io/site-cclp-main/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
@@ -55,6 +50,11 @@
   
   <url>
     <loc>https://mycclp.github.io/site-cclp-main/tags/themes/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mycclp.github.io/site-cclp-main/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
