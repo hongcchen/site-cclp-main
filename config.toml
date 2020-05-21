@@ -23,19 +23,24 @@ googleAnalytics = "UA-166989401-1"
     weight = 1
 
 [[menu.main]]
-    url = "/about/"
-    name = "关于校友会"
+    url = "/update/"
+    name = "动态"
     weight = 2
 
 [[menu.main]]
-    url = "/update/"
-    name = "动态"
+    url = "/blog/"
+    name = "博客"
     weight = 3
 
 [[menu.main]]
     url = "/resource/"
     name = "资源"
     weight = 4
+
+[[menu.main]]
+    url = "/about/"
+    name = "关于校友会"
+    weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
